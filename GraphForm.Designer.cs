@@ -1,6 +1,6 @@
 ﻿namespace calculator
 {
-    partial class graph
+    partial class GraphForm
     {
         /// <summary>
         /// Required designer variable.

@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace calculator
 {
-    public partial class graph : Form
+    public partial class GraphForm : Form
     {
         public double _A, _B, _C;
         private double min, max;
         private int N, switch_on;
         
 
-        public graph()
+        public GraphForm()
         {
             InitializeComponent();
             

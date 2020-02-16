@@ -1,0 +1,14 @@
+bin/Debug/calculator.exe
+bin/Debug/calculator.pdb
+obj/Debug/calculator.CalculatorForm.resources
+obj/Debug/calculator.csproj.FileListAbsolute.txt
+obj/Debug/Calculator.csproj.GenerateResource.cache
+obj/Debug/Calculator.csprojAssemblyReference.cache
+obj/Debug/calculator.exe
+obj/Debug/calculator.GraphForm.resources
+obj/Debug/calculator.pdb
+obj/Debug/DesignTimeResolveAssemblyReferences.cache
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+.vs/calculator/v16/.suo
+.vs/calculator/v16/Server/sqlite3/db.lock
+.vs/calculator/v16/Server/sqlite3/storage.ide
